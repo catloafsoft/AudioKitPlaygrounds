@@ -1,0 +1,25 @@
+{
+    "name": "AudioKitPlaygrounds",
+    "version": "3.7.1",
+    "authors": {
+        "Aurelius Prochazka": "audiokit@audiokit.io"
+    },
+    "license": {
+        "type": "MIT",
+        "file": "LICENSE"
+    },
+    "homepage": "http://audiokit.io/playgrounds/",
+    "social_media_url": "http://twitter.com/AudioKitMan",
+    "documentation_url": "http://audiokit.io/docs/",
+    "summary": "Open-source audio synthesis, processing, & analysis platform. Demo project using Xcode Playgrounds.",
+    "platforms": {
+        "osx": "10.11"
+    },
+    "source": {
+	"git": "https://github.com/catloafsoft/AudioKitPlaygrounds.git",
+	"tag": "master"
+    },
+    "source_files": [
+	"AudioKitPlaygrounds/*"
+    ]
+}
